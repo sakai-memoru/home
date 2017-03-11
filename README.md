@@ -5,6 +5,8 @@ Overview
 ---------
 Project page on GitHub.
 
+https://sakai-memoru.github.io/home/
+
 Description
 ---------
 My sample home page.
